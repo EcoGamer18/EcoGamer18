@@ -24,5 +24,5 @@
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I like anime, kpop and math problems
     
-<!-- ![EcoGamer18's GitHub stats](https://github-readme-stats.vercel.app/api?username=EcoGamer18&show_icons=true&theme=radical) -->
+![EcoGamer18's GitHub stats](https://github-readme-stats.vercel.app/api?username=EcoGamer18&show_icons=true&theme=radical)
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EcoGamer18) -->
