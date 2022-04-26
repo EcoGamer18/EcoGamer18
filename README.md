@@ -19,7 +19,7 @@
 <!--   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> </a> -->
 <!--   <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> -->
   
-- 📫 How to reach me: 
+- 📫 You can reach me on: 
   - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): GabrielaEcoGamer#3097 </a>
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I like anime, kpop and math problems
