@@ -25,7 +25,7 @@
 - ⚡ Fun fact: I like anime, kpop and math problems
     
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/EcoGamer18">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=EcoGamer18&show_icons=true&theme=radical" />
   </a>
   
