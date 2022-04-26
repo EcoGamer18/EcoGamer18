@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📅 Languages and Tools:
-  <p align="center">
+  <p align="left">
     <a href="https://isocpp.org/std/the-standard" target="_blank"> 
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     </a>
@@ -24,9 +24,9 @@
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I like anime, kpop and math problems
     
-<p align="center">
+<p align="left">
   <a href="https://github.com/EcoGamer18">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EcoGamer18&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EcoGamer18&show_icons=true&theme=synthwave" />
   </a>
   
 <!-- ![EcoGamer18's GitHub stats](https://github-readme-stats.vercel.app/api?username=EcoGamer18&show_icons=true&theme=radical) -->
