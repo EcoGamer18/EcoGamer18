@@ -26,7 +26,7 @@
     
 <p align="left">
   <a href="https://github.com/EcoGamer18">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EcoGamer18&show_icons=true&theme=chartreuse-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EcoGamer18&show_icons=true&theme=merko" />
   </a>
   
 <!-- ![EcoGamer18's GitHub stats](https://github-readme-stats.vercel.app/api?username=EcoGamer18&show_icons=true&theme=radical) -->
