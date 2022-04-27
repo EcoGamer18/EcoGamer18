@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,  I'm Gab 👋
 
 - 📅 Languages and Tools:
   <p align="left">
